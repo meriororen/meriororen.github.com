@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ヽ(`Д´)ﾉ︵ ┻━┻　オアア！
+title: ヽ(`Д´)ﾉ︵ ┻━┻　オッラアア！
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
