@@ -1,11 +1,11 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
-	font: 16px/21px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: 14px/19px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
-	font: 16px/21px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: 14px/19px "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .logo {
