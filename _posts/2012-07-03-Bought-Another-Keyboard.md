@@ -22,4 +22,6 @@ tags : [keyboard]
  So far there are no problem, except that I
  have to adapt with windows layout (again). Also, it's a little bit
  crampy, but it's okay.
+
+ <img src="/assets/images/keyboard" width="500">
  
